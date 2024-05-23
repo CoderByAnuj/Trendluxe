@@ -1,15 +1,24 @@
-import { Navbar } from "./Components/Navbar"
+import Navbar from "./Components/Navbar";
+import { Route, Routes } from "react-router-dom";
+import { Home } from "./Pages/Home/Home";
+import Mens from "./Pages/Product/Mens";
+import Womens from "./Pages/Product/Womens";
+import Kids from "./Pages/Product/Kids";
 
 function App() {
-
   return (
     <>
       <div className="h-screen">
         <Navbar />
-      <h1 className='text-blue-600 font-bold text-3xl text-center'>Helloworld</h1>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/mens" element={<Mens />} />
+          <Route path="/womens" element={<Womens />} />
+          <Route path="/kids" element={<Kids />} />
+        </Routes>
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
