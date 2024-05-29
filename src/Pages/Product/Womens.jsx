@@ -1,6 +1,8 @@
 import { womens } from "../../assets/Database/main.js";
+import { useCart } from "../../context/CartContext.jsx";
 
 export default function Womens() {
+  const { addItem } = useCart();
   return (
     <>
       <div className="main h-fit bg-white  grid grid-cols-2 md:grid-cols-4  md:px-10 md:p-5 p-2 gap-2 md:gap-4 ">
@@ -16,7 +18,7 @@ export default function Womens() {
                 <p className="text-xs">Brand : {item.brand}</p>
                 <p className="text-xs">Cetogory : {item.category}</p>
                 <div className="card-actions justify-end">
-                  <button className=" bg-cyan-700 text-xs font-bold text-white rounded-lg px-2 py-2 ">Buy Now</button>
+                  <button onClick={() => addItem(item)} className=" bg-cyan-700 text-xs font-bold text-white rounded-lg px-2 py-2 ">Buy Now</button>
                 </div>
               </div>
             </div>

@@ -1,6 +1,7 @@
 
 export const kids = [
     {
+        id:0,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220222/pmBZ/6214007daeb26921afa7dec1/cherry_crumble_by_nitt_hyman_red_checked_shirt_with_flap_pockets.jpg",
         brand: "NITT HYMAN",
@@ -11,6 +12,7 @@ export const kids = [
         strikedOffPrice: 1849,
     },
     {
+        id:1,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20210831/8r7g/612e23547cdb8cb824103117/noddy_multicoloured_colourblock_crew-neck_t-shirt_with_applique.jpg",
         brand: "NODDY",
@@ -21,6 +23,7 @@ export const kids = [
         strikedOffPrice: 550,
     },
     {
+        id:2,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220122/Xh3W/61eb1a38aeb2695cdd28af2d/max_multicoloured_checked_shirt_with_patch_pocket_.jpg",
         brand: "MAX",
@@ -31,6 +34,7 @@ export const kids = [
         strikedOffPrice: 699,
     },
     {
+        id:3,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220207/8Uek/6201389baeb26921af8c7ea3/poplins_brown_%26_white_floral_print_print_top_with_pants_.jpg",
         brand: "POPLINS",
@@ -41,6 +45,7 @@ export const kids = [
         strikedOffPrice: 1299,
     },
     {
+        id:4,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220211/uedG/6206584caeb26921af93d377/tommy_hilfiger_yellow_brand_print_round-neck_organic_cotton_t-shirt.jpg",
         brand: "TOMMY HILFIGER",
@@ -51,6 +56,7 @@ export const kids = [
         strikedOffPrice: 1499,
     },
     {
+        id:5,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220113/HXSd/61df3fb7aeb2695cdd12271f/peppermint_maroon_%26_white_micro_printed_fit_and_flare_frocks.jpg",
         brand: "PEPPERMINT",
@@ -61,6 +67,7 @@ export const kids = [
         strikedOffPrice: 1599,
     },
     {
+        id:6,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220111/02kd/61dc989bf997dd662318a27f/disney_by_wear_your_mind_black_cartoon_round_neck_t-shirt.jpg",
         brand: "DISNEY",
@@ -71,6 +78,7 @@ export const kids = [
         strikedOffPrice: 1095,
     },
     {
+        id:7,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220207/p3Wq/620112c3aeb26921af8bb430/kb_team_spirit_blue_printed_crew-neck_t-shirt_with_striped_shirt.jpg",
         brand: "KB TEAM SPIRIT",
@@ -81,6 +89,7 @@ export const kids = [
         strikedOffPrice: 999,
     },
     {
+        id:8,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20211231/AWpf/61cf1b11f997dd66230bfffb/rio_girls_pink_graphic_print_crew-neck_t-shirt.jpg",
         brand: "RIO GIRLS",
@@ -91,6 +100,7 @@ export const kids = [
         strikedOffPrice: 249,
     },
     {
+        id:9,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220113/gHCk/61df3fa3f997dd66231e6905/peppermint_peach_metallic_print_a-line_dress_with_floral_applique.jpg",
         brand: "PEPPERMINT",
@@ -101,6 +111,7 @@ export const kids = [
         strikedOffPrice: 1299,
     },
     {
+        id:10,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20211111/GTbi/618d303aaeb2690110c0ed9b/max_red_camouflage_typographic_print_t-shirt_with_doctor_sleeves.jpg",
         brand: "MAX",
@@ -111,6 +122,7 @@ export const kids = [
         strikedOffPrice: 499,
     },
     {
+        id:11,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220111/ZOmg/61dca4ccaeb2695cdd0d9e44/max_red_graphic_print_round-neck_t-shirt.jpg",
         brand: "MAX",
@@ -121,6 +133,7 @@ export const kids = [
         strikedOffPrice: 199,
     },
     {
+        id:12,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220210/JyHe/620424bef997dd03e2c8cacd/max_multi__v-neck_t-shirt_with_patch_pocket.jpg",
         brand: "MAX",
@@ -131,6 +144,7 @@ export const kids = [
         strikedOffPrice: 349,
     },
     {
+        id:13,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220215/pMhZ/620bc610aeb26921af99f88b/inf_frendz_blue_%26_white_placement_graphic_print_colourblock_shirt.jpg",
         brand: "INF FRENDZ",
@@ -141,6 +155,7 @@ export const kids = [
         strikedOffPrice: 449,
     },
     {
+        id:14,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20211111/tuQs/618c20e7aeb2690110c0aa65/max_red_graphic_print_round-neck_top.jpg",
         brand: "MAX",
@@ -149,7 +164,9 @@ export const kids = [
         category: "kids",
         price: 329,
         strikedOffPrice: 399,
-    },    {
+    },  
+      {
+        id:15,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20200725/5KpN/5f1c4e4a7cdb8c220785996d/united_colors_of_benetton_navy_blue_typographic_print_sleeveless_t-shirt.jpg",
         brand: "UNITED COLORS OF BENETTON",
         product: "Typographic Print Sleeveless T-shirt",
@@ -159,6 +176,7 @@ export const kids = [
         strikedOffPrice: 499,
     },
     {
+        id:16,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20210906/pTiV/613626acf997ddce89bcda51/warner_brothers_charcoal_batman_print_round-neck_t-shirt.jpg",
         brand: "WARNER BROTHERS",
         product: "Batman Print Round-Neck T-shirt",
@@ -168,6 +186,7 @@ export const kids = [
         strikedOffPrice: 249,
     },
     {
+        id:17,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20210824/n8gO/6124e7ba7cdb8cb824046e6a/kb_team_spirit_orange_%26_white_shirt_with_printed_sleeveless_t-shirt.jpg",
         brand: "KB TEAM SPIRIT",
         product: "Shirt with Printed Sleeveless T-shirt",
@@ -177,6 +196,7 @@ export const kids = [
         strikedOffPrice: 649,
     },
     {
+        id:18,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20210724/B8aS/60fb4093f997ddb312376faf/yb_dnmx_blue_flat-front_trousers_with_drawstring_waist.jpg",
         brand: "YB DNMX",
         product: "Flat-Front Trousers with Drawstring Waist",
@@ -186,6 +206,7 @@ export const kids = [
         strikedOffPrice: 999,
     },
     {
+        id:19,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20201216/MwZE/5fd9ef01aeb269d56340b289/-473Wx593H-441106109-orange-MODEL2.jpg",
         brand: "KB TEAM SPIRIT",
         product: "Numeric Print Henley T-shirt",
@@ -195,6 +216,7 @@ export const kids = [
         strikedOffPrice: 249,
     },
     {
+        id:20,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/hac/h2a/13474002698270/kb_team_spirit_blue_mid-rise_bermuda_shorts_with_insert_pockets.jpg",
         brand: "KB TEAM SPIRIT",
         product: "Mid-Rise Bermuda Shorts with Insert Pockets",
@@ -204,6 +226,7 @@ export const kids = [
         strikedOffPrice: 399,
     },
     {
+        id:21,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20211021/y3PE/617064b7aeb26901109d8bf8/-473Wx593H-460558754-red-MODEL.jpg",
         brand: "U.S. POLO ASSN.",
         product: "Graphic Print Polo T-shirt",
@@ -213,6 +236,7 @@ export const kids = [
         strikedOffPrice: 1299,
     },
     {
+        id:22,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20211027/6MNx/61796f24f997ddf8f1eceef8/u.s._polo_assn._yellow_hoodie_with_split_kangaroo_pockets.jpg",
         brand: "U.S. POLO ASSN.",
         product: "Hoodie with Split Kangaroo Pockets",
@@ -222,6 +246,7 @@ export const kids = [
         strikedOffPrice: 1799,
     },
     {
+        id:23,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20201216/q2ch/5fda15f3f997dd8c83cfc9dc/-473Wx593H-441106109-green-MODEL.jpg",
         brand: "KB TEAM SPIRIT",
         product: "Numeric Print Henley T-shirt",
@@ -231,6 +256,7 @@ export const kids = [
         strikedOffPrice: 249,
     },
     {
+        id:24,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/hc9/hfb/12548018012190/united_colors_of_benetton_maroon_cotton_shirt_with_roll-tab_sleeves.jpg",
         brand: "UNITED COLORS OF BENETTON",
         product: "Cotton Shirt with Roll-Tab Sleeves",
@@ -240,6 +266,7 @@ export const kids = [
         strikedOffPrice: 999,
     },
     {
+        id:25,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20210724/TNx0/60fb0c18aeb269a9e35174b9/-473Wx593H-460922172-navy-MODEL.jpg",
         brand: "TOMMY HILFIGER",
         product: "Shorts with Placement Brand Print",
@@ -249,6 +276,7 @@ export const kids = [
         strikedOffPrice: 2999,
     },
     {
+        id:26,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20211217/m6t9/61bca601aeb269011010e832/rio_girls_olive_green_a-line_dress_with_floral_embroidery.jpg",
         brand: "RIO GIRLS",
         product: "A-line Dress with Floral Embroidery",
@@ -258,6 +286,7 @@ export const kids = [
         strikedOffPrice: 899,
     },
     {
+        id:27,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220107/zvQj/61d859b9aeb2695cdd098e49/kg_frendz_pink_floral-embroidered_net_fit_%26_flare_dress.jpg",
         brand: "KG FRENDZ",
         product: "Floral-Embroidered Net Fit & Flare Dress",
@@ -267,6 +296,7 @@ export const kids = [
         strikedOffPrice: 1049,
     },
     {
+        id:28,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20210730/zNuX/61041b07aeb269a9e35b23e3/-473Wx593H-410258890-multi-MODEL3.jpg",
         brand: "MOTHERCARE",
         product: "Floral Print A-line Dress with Frills",
@@ -275,7 +305,8 @@ export const kids = [
         price: 549,
         strikedOffPrice: 999,
     },
-        {
+        { 
+          id:29,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20210827/LlLA/61284e447cdb8cb82409f048/bella_moda_green_embellished_fit_%26_flare_dress_with_sling_bag.jpg",
         brand: "BELLA MODA",
         product: "Embellished Fit & Flare Dress with Sling Bag",

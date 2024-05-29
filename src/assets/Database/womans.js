@@ -1,6 +1,7 @@
 
 export const womens = [
     {
+        id:0,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220127/RXhg/61f2daaef997dd66234079f3/gosriki_pink_geometric_print_straight_kurta_set.jpg",
         brand: "GOSRIKI",
@@ -11,6 +12,7 @@ export const womens = [
         strikedOffPrice: 3196,
     },
     {
+        id:1,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220124/8ATC/61eeae7af997dd662337baf6/gulmohar_jaipur_yellow_floral_printed_straight_kurta_set.jpg",
         brand: "GULMOHAR JAIPUR",
@@ -21,6 +23,7 @@ export const womens = [
         strikedOffPrice: 2499,
     },
     {
+        id:2,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220124/IYjE/61eeadd8f997dd662337b165/gulmohar_jaipur_maroon_floral_print_straight_kurta_set.jpg",
         brand: "GULMOHAR JAIPUR",
@@ -31,6 +34,7 @@ export const womens = [
         strikedOffPrice: 2499,
     },
     {
+        id:3,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20211006/ntzG/615d2b66f997ddce89026c9f/ishoo_white_polka-dot_flared_kurta_set.jpg",
         brand: "ISHOO",
@@ -41,6 +45,7 @@ export const womens = [
         strikedOffPrice: 1599,
     },
     {
+        id:4,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220124/zTEx/61eeac9bf997dd6623379e6d/gulmohar_jaipur_teal_floral_print_flared_kurta_set.jpg",
         brand: "GULMOHAR JAIPUR",
@@ -51,6 +56,7 @@ export const womens = [
         strikedOffPrice: 2499,
     },
     {
+        id:5,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20211125/cMM7/619fbe5aaeb2690110d8b766/gosriki_pink_floral_printed_straight_kurta_sets.jpg",
         brand: "GOSRIKI",
@@ -61,6 +67,7 @@ export const womens = [
         strikedOffPrice: 3401,
     },
     {
+        id:6,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20210316/YU0Y/604fb60bf997dd5c40116be6/avaasa_mix_n%27_match_yellow_floral_print_straight_kurta.jpg",
         brand: "AVAASA MIX N' MATCH",
@@ -71,6 +78,7 @@ export const womens = [
         strikedOffPrice: 499,
     },
     {
+        id:7,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20210615/vaXX/60c7f988f997ddb312cac345/gosriki_blue_floral_print_straight_kurta_set.jpg",
         brand: "GOSRIKI",
@@ -81,6 +89,7 @@ export const womens = [
         strikedOffPrice: 3051,
     },
     {
+        id:8,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220107/8BhM/61d75260f997dd662313585b/anubhutee_blue_indian__anarkali_kurta_set.jpg",
         brand: "ANUBHUTEE",
@@ -91,6 +100,7 @@ export const womens = [
         strikedOffPrice: 4499,
     },
     {
+        id:9,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20210404/cf7C/606beceaaeb269a9e36fc13c/aks_green_checked_straight_kurta.jpg",
         brand: "AKS",
@@ -101,6 +111,7 @@ export const womens = [
         strikedOffPrice: 999,
     },
     {
+        id:10,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20210430/hG7l/608c1bd1aeb269a9e3a65fb8/fusion_white_printed_straight_kurta_with_high-low_hemline.jpg",
         brand: "FUSION",
@@ -111,6 +122,7 @@ export const womens = [
         strikedOffPrice: 499,
     },
     {
+        id:11,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220114/bhqJ/61e16cd6aeb2695cdd157ae9/avaasa_mix_n%27_match_burgundy_straight_kurta_with_floral_embroidered_yoke.jpg",
         brand: "AVAASA MIX N' MATCH",
@@ -121,6 +133,7 @@ export const womens = [
         strikedOffPrice: 499,
     },
     {
+        id:12,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220122/kmHz/61eb25e8aeb2695cdd2966a1/fable_street_navy_solid_v-neck__top.jpg",
         brand: "FABLE STREET",
@@ -131,6 +144,7 @@ export const womens = [
         strikedOffPrice: 2199,
     },
     {
+        id:13,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220201/iHwp/61f8d5bcaeb26921af836d75/orchid_blues_black_joggers_with_insert_pockets.jpg",
         brand: "ORCHID BLUES",
@@ -141,6 +155,7 @@ export const womens = [
         strikedOffPrice: 1299,
     },
     {
+        id:14,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220211/zqWG/62068100f997dd03e2cc5b14/tommy_hilfiger_red_printed_slim_fit_polo_t-shirt.jpg",
         brand: "TOMMY HILFIGER",
@@ -151,6 +166,7 @@ export const womens = [
         strikedOffPrice: 3199,
     },
     {
+        id:15,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20210528/0ps8/60b11029f997ddb312ad2abd/dnmx_blue_washed_slim_fit_jeans.jpg",
         brand: "DNMX",
@@ -161,6 +177,7 @@ export const womens = [
         strikedOffPrice: 999,
     },
     {
+        id:16,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20220211/IKH0/62067de9f997dd03e2cc2dd2/tommy_hilfiger_purple_crew-neck_t-shirt.jpg",
         brand: "TOMMY HILFIGER",
@@ -171,6 +188,7 @@ export const womens = [
         strikedOffPrice: 2299,
     },
     {
+        id:17,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20211026/OzFC/6177136daeb2690110a91cb5/nike_black_skinny_fit_track_pants_with_slip_pockets.jpg",
         brand: "NIKE",
@@ -181,6 +199,7 @@ export const womens = [
         strikedOffPrice: 3695,
     },
     {
+        id:18,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20210710/6cuZ/60e8c293aeb269a9e33f17e5/soch_black_floral_print_georgette_saree.jpg",
         brand: "SOCH",
@@ -191,6 +210,7 @@ export const womens = [
         strikedOffPrice: 2498,
     },
     {
+        id:19,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20210706/P5HT/60e38074aeb269a9e3388c95/buta_buti_orange_floral_print_cotton_saree.jpg",
         brand: "BUTA BUTI",
@@ -201,6 +221,7 @@ export const womens = [
         strikedOffPrice: 1999,
     },
     {
+        id:20,
         imageURL:
             "https://assets.ajio.com/medias/sys_master/root/20211225/oySa/61c63f8caeb26901101c7618/marziyaa_peach_%26_green_kanjeevaram_meenakari_traditional_saree_.jpg",
         brand: "MARZIYAA",
@@ -211,6 +232,7 @@ export const womens = [
         strikedOffPrice: 2999,
     },
     {
+        id:21,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220324/Ub51/623b83feaeb26921afedbfb0/may_sixty_red_printed_pyjama_with_drawstring_waistband.jpg",
         brand: "MAY SIXTY",
         product: "Printed Pyjama with Drawstring Waistband",
@@ -220,6 +242,7 @@ export const womens = [
         strikedOffPrice: 999,
     },
     {
+        id:22,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220113/3Xad/61e0414ff997dd662320217d/performax_blue_fastdry_active_t-shirt_with_raglan_sleeves.jpg",
         brand: "PERFORMAX",
         product: "Fastdry Active T-shirt with Raglan Sleeves",
@@ -229,6 +252,7 @@ export const womens = [
         strikedOffPrice: 499,
     },
     {
+        id:23,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220125/jenF/61ef06b6aeb2695cdd2b0b4d/superdry_blue_vintage_logo_tonal_crew-neck_t-shirt_with_embellishments.jpg",
         brand: "SUPERDRY",
         product: "Vintage Logo Tonal Crew-Neck T-shirt",
@@ -238,6 +262,7 @@ export const womens = [
         strikedOffPrice: 4299,
     },
     {
+        id:24,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220112/6wFC/61ddf6b7f997dd66231cc8c3/pratham_blue_blue_embellished_sequined_saree.jpg",
         brand: "PRATHAM BLUE",
         product: "Embellished Sequined Saree",
@@ -247,6 +272,7 @@ export const womens = [
         strikedOffPrice: 3999,
     },
     {
+        id:25,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220211/CT86/620680ddaeb26921af94c034/fig_off_white_floral_print_top_with_mandarin_collar.jpg",
         brand: "FIG",
         product: "Floral Print Top with Mandarin Collar",
@@ -256,6 +282,7 @@ export const womens = [
         strikedOffPrice: 899,
     },
     {
+        id:26,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220117/z8wH/61e5648ef997dd66232568cb/gulmohar_jaipur_black_embellished_straight_kurta.jpg",
         brand: "GULMOHAR JAIPUR",
         product: "Embellished Straight Kurta",
@@ -265,6 +292,7 @@ export const womens = [
         strikedOffPrice: 1299,
     },
     {
+        id:27,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220325/GSvM/623d4e45aeb26921aff4fe9a/zastraa_grey_solid_straight_fit_pant.jpg",
         brand: "ZASTRAA",
         product: "Solid Straight Fit Pant",
@@ -274,6 +302,7 @@ export const womens = [
         strikedOffPrice: 2999,
     },
     {
+        id:28,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220125/ggpM/61eeffb8aeb2695cdd2aee10/-473Wx593H-441134013-ltgreen-MODEL.jpg",
         brand: "FIG",
         product: "Skinny Pants with Insert Pockets",
@@ -283,6 +312,7 @@ export const womens = [
         strikedOffPrice: 999,
     },
     {
+        id:29,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220228/NTFn/621cc8adaeb26921afbb7ce8/buta_buti_orange_printed_cotton_saree_with_blouse_piece.jpg",
         brand: "BUTA BUTI",
         product: "Printed Cotton Saree with Blouse Piece",
@@ -292,6 +322,7 @@ export const womens = [
         strikedOffPrice: 1999,
     },
     {
+        id:30,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220301/NcaI/621e0569aeb26921afbdafca/biba_green_floral_print_flared_kurta_with_tassels.jpg",
         brand: "BIBA",
         product: "Floral Print Flared Kurta with Tassels",
@@ -301,6 +332,7 @@ export const womens = [
         strikedOffPrice: 2399,
     },
     {
+        id:31,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220223/Wvrb/6215531cf997dd03e2e748ae/levis_yellow_ribbed_slim_fit_round-neck_t-shirt.jpg",
         brand: "LEVIS",
         product: "Ribbed Slim Fit Round-Neck T-shirt",
@@ -310,6 +342,7 @@ export const womens = [
         strikedOffPrice: 1599,
     },
     {
+        id:32,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220211/3TkM/62067f34aeb26921af94a691/-473Wx593H-441136789-black-MODEL.jpg",
         brand: "FIG",
         product: "Pleat-Front Culottes with Insert pockets",
@@ -319,6 +352,7 @@ export const womens = [
         strikedOffPrice: 899,
     },
     {
+        id:33,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220325/e8Ma/623d5b82aeb26921aff614ed/satrani_pink_solid_traditional_saree.jpg",
         brand: "SATRANI",
         product: "Solid Traditional Saree",
@@ -328,6 +362,7 @@ export const womens = [
         strikedOffPrice: 1454,
     },
     {
+        id:34,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20220302/SWnL/621e7215f997dd03e2f8dec4/-473Wx593H-441245195-indigo-MODEL2.jpg",
         brand: "LEE COOPER",
         product: "High-Rise Skinny Jeans",
@@ -337,6 +372,7 @@ export const womens = [
         strikedOffPrice: 1799,
     },
     {
+        id:35,
         imageURL: "https://assets.ajio.com/medias/sys_master/root/20211229/5CFG/61cca085aeb269011022dbc8/readiprint_fashions_purple_embellished_semi-stitched_kurta_%26_skirt_with_dupatta.jpg",
         brand: "READIPRINT FASHIONS",
         product: "Embellished Semi-stitched Kurta & Skirt",

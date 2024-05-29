@@ -1,7 +1,9 @@
+import { useState } from 'react';
 import { useCart } from '../../context/CartContext';
 
 const Cart = () => {
   const { cart, removeItem, clearCart } = useCart();
+  const [quantity, setQuantity] = useState(1);
  
 
   const subtotal = cart.reduce((total, item) => total + item.price, 0);
@@ -20,6 +22,15 @@ const Cart = () => {
                 <img src={item.imageURL} className='w-24 rounded-lg' alt="" />
                   <h5 className="text-lg font-semibold">{item.product}</h5>
                   <p className="text-gray-600">${item.price.toFixed(2)}</p>
+                </div>
+                <div className="qunt flex ">
+                  <button
+                  onClick={() => setQuantity(quantity - 1)}
+                   className=' bg-gray-300 px-2 rounded-sm hover:bg-gray-200'>-</button>
+                  <p className='px-2 '>{quantity}</p>
+                  <button 
+                  onClick={() => setQuantity(quantity + 1)}
+                   className=' bg-gray-300 px-2 rounded-sm hover:bg-gray-200'>+</button>
                 </div>
                 <button 
                   className="text-red-500 hover:text-red-700" 
