@@ -150,7 +150,7 @@ export default function Navbar() {
         <div className="sm:hidden" id="mobile-menu">
           <div className="px-2 pt-2 pb-3 space-y-1">
             <Link
-              to={'/men'}
+              to={'/mens'}
               className="text-gray-700 hover:text-gray-900 block px-3 py-2 rounded-md text-base font-medium"
             >
               Men
