@@ -149,24 +149,24 @@ export default function Navbar() {
       {isOpen && (
         <div className="sm:hidden" id="mobile-menu">
           <div className="px-2 pt-2 pb-3 space-y-1">
-            <a
-              href="#"
+            <Link
+              to={'/mens'}
               className="text-gray-700 hover:text-gray-900 block px-3 py-2 rounded-md text-base font-medium"
             >
               Men
-            </a>
-            <a
-              href="#"
+            </Link>
+            <Link
+            to={'/womens'}
               className="text-gray-700 hover:text-gray-900 block px-3 py-2 rounded-md text-base font-medium"
             >
               Women
-            </a>
-            <a
-              href="#"
+            </Link>
+            <Link
+              to={'/kids'}
               className="text-gray-700 hover:text-gray-900 block px-3 py-2 rounded-md text-base font-medium"
             >
               Kids
-            </a>
+            </Link>
             <a
               href="#"
               className="text-gray-700 hover:text-gray-900 block px-3 py-2 rounded-md text-base font-medium"
