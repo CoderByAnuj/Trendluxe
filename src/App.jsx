@@ -6,6 +6,7 @@ import Womens from "./Pages/Product/Womens";
 import Kids from "./Pages/Product/Kids";
 import AddProduct from "./Components/AddProduct";
 import Cart from "./Pages/Product/Cart";
+import Footer from "./Components/Footer.jsx";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path="/cart" element={<Cart />} />
           <Route path="/add" element={<AddProduct />} />
         </Routes>
+        <Footer />
       </div>
     </>
   );
