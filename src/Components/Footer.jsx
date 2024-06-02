@@ -13,6 +13,8 @@ export default function Footer() {
 
            <a href="#" className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Who We Are</a>
            <a href="#" className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Join Our Team</a>
+          <a href="#" className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Fees & Payments</a>
+          
 
 
           
