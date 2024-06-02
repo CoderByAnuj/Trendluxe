@@ -10,20 +10,12 @@ export default function Footer() {
           <a href="#" className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Jobs</a>
           <a href="#" className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Press</a>
           <a href="#" className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Blog</a>
-          <footer class="footer">
-        <div class="row">
-            <div class="footer-col">
-                <h4>Ajio</h4>
-                <ul>
-                    <li><a href="#">Who We Are</a></li>
-                    <li><a href="#">Join Our Team</a></li>
-                    <li><a href="#">Terms & Conditions</a></li>
-                    <li><a href="#">We Respect Your Privacy</a></li>
-                    <li><a href="#">Fees & Payments</a></li>
-                    <li><a href="#">Returns & Refunds Policy</a></li>
-                    <li><a href="#">Promotions Terms & Conditions</a></li>
-                </ul>
-            </div>
+
+           <a href="#" className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Who We Are</a>
+           <a href="#" className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Join Our Team</a>
+
+
+          
         </nav>
       
         <div className="flex gap-4">
