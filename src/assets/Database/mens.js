@@ -9,6 +9,7 @@ export const mens = [
         category: "tshirt",
         price: 400,
         strikedOffPrice: 799,
+        details: "This polo T-shirt from Performax is a must-have in your activewear collection. It is crafted from a blend of polyester and elastane, which ensures comfort and durability. The moisture-wicking technology keeps you dry and comfortable during your workout sessions. The step hemline adds to the style of the T-shirt. Pair it with shorts and sports shoes for a complete look.",
     },
     {
         id:1,
