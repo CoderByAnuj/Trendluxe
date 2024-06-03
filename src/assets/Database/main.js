@@ -1,6 +1,7 @@
 import { mens } from "./mens.js"
 import { womens } from "./womans.js"
 import { kids } from "./kids.js"
+import { shoes } from "./shoes.js"
 
 
 
@@ -17,4 +18,4 @@ export const SaveLocal = () => {
 
 
 
-export { mens, womens, kids} 
+export { mens, womens, kids, shoes } 
