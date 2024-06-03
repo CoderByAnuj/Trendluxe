@@ -177,12 +177,12 @@ export default function Navbar() {
             >
               Kids
             </Link>
-            <link
+            <Link
              to={'/Beauty'}
               className="text-gray-700 hover:text-gray-900 block px-3 py-2 rounded-md text-base font-medium"
             >
               Beauty
-            </a>
+            </Link>
             <a
               href="#"
               className="text-gray-700 hover:text-gray-900 block px-3 py-2 rounded-md text-base font-medium"
