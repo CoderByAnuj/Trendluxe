@@ -20,8 +20,17 @@ const Cart = () => {
               <li key={item.id} className="flex justify-between items-center py-4">
                 <div className='flex gap-4'>
                 <img src={item.imageURL} className='w-24 rounded-lg' alt="" />
-                  <h5 className="text-lg font-semibold">{item.product}</h5>
+                 <div>
+                 <h5 className="text-lg font-semibold">{item.product}</h5>
                   <p className="text-gray-600">${item.price.toFixed(2)}</p>
+                  <div className="flex py-5 gap-x-2">
+                {['S', 'M', 'L', 'XL'].map((size) => (
+                  <div key={size} className="bg-gray-300 px-2 py-1 hover:bg-slate-400  rounded-sm">
+                    {size}
+                  </div>
+                ))}
+              </div>
+                 </div>
                 </div>
                 <div className="qunt flex ">
                   <button
@@ -48,6 +57,9 @@ const Cart = () => {
               onClick={clearCart}
             >
               Clear Cart
+            </button>
+            <button className='bg-white font-bold  text-black  w-fit px-4 py-2 text-center  rounded-md hover:bg-black hover:text-white transition border-white border'>
+            Buys now
             </button>
           </div>
         </div>

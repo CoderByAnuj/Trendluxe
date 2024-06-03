@@ -1,6 +1,3 @@
-import React from "react";
-
-
 export const Home = () => {
   return (
     <>
@@ -41,10 +38,15 @@ export const Home = () => {
 
 
 const Hero = () => {
+  const style = {
+    backgroundImage: `url("https://cdn.dribbble.com/users/1948198/screenshots/4377223/dribble.gif")`,
+    backgroundSize: "fit",
+    backgroundPosition: "center",
+  }
   return (
     <>
     <div className="mein">
-      <div className="hero min-h-fit py-4 bg-base-200">
+      <div className="hero min-h-fit py-4  bg-base-200" style={style}>
         <div className="hero-content text-center">
           <div className="max-w-md">
             <h1 className="text-5xl font-bold">WELCOME TO TRENDLUXE</h1>
